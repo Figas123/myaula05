@@ -10,7 +10,7 @@ namespace MyAula05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helllo");
+            Console.WriteLine("Bye");
         }
     }
 }
